@@ -24,5 +24,5 @@ the aid of some batch scripts like SLURM or forkmanager.
 
 In each directory:
 
-"make-*.sh" are the files in bash to generate parameters for multiple samples
-"*.param" are the param files
+"make-\*.sh" are the files in bash to generate parameters for multiple samples
+"\*.param" are the param files
