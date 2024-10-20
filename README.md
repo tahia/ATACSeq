@@ -1,11 +1,11 @@
 # README for ATACSeq Peak Calling pipe
-**Written by : Taslima Haque**
+**Editor : Taslima Haque**
 **Last Modified: 11/08/2022**
 
 **Contact : taslima@utexas.edu**
 
-====================================================================================
-**This pipeline contains the basic codes to call peaks for ATACSeq**
+======================================================================================
+**This pipeline contains the basic scripts to call peaks for ATACSeq data**
 
 The structure of this pipeline is as follows:
 
@@ -19,7 +19,7 @@ The structure of this pipeline is as follows:
   
   04-PeakCalling
 
-The scripts are written in such a way so that it can either be run in a cluster with
+The scripts are written in bash which can either be run in a cluster with
 the aid of some batch scripts like SLURM or forkmanager.
 
 In each directory:
