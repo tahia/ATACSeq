@@ -7,7 +7,7 @@
 ======================================================================================
 **This pipeline contains the basic scripts to call peaks for ATACSeq data**
 
-The steps of this pipeline is as follows:
+The steps of this pipeline are as follows:
 
       00-qual-report: quality check
   
