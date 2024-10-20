@@ -9,15 +9,15 @@
 
 The structure of this pipeline is as follows:
 
-  00-qual-report
+      00-qual-report
   
-  01-qual-filter
+      01-qual-filter
   
-  02-bowtie-mapping
+      02-bowtie-mapping
   
-  03-clean-alignments
+      03-clean-alignments
   
-  04-PeakCalling
+      04-PeakCalling
 
 The scripts are written in bash which can either be run in a cluster with
 the aid of some batch scripts like SLURM or forkmanager.
