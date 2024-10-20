@@ -1,6 +1,6 @@
-# README for ATACSeq Peak Calling pipe
-### Editor : Taslima Haque
-### Last Modified: 11/08/2022
+## README for ATACSeq Peak Calling pipe
+#### Editor : Taslima Haque
+#### Last Modified: 11/08/2022
 
 **Contact : taslima@utexas.edu**
 
